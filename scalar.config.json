@@ -116,5 +116,5 @@
   },
   "favicon": "https://utfs.io/f/lKo6VaP8kaqVN0l5gFv4RxZaLwSkvEXPYuo98sp0Gtm5DjTH",
   "customDomain": "docs.orchestra.org",
-  "customCss": ".mobile-header-breadcrumbs { display: inline-block; overflow: hidden; text-indent: -50px; }"
+  "customCss": `.mobile-header-breadcrumbs { display: "inline-block"; overflow: "hidden"; text-indent: "-50px"; }`
 }
